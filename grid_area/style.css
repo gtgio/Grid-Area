@@ -119,7 +119,7 @@ footer {
 
 }
 
-@media screen and (min-width:1000px;) {
+@media screen and (min-width:1000px) {
   body {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: "head head head"
